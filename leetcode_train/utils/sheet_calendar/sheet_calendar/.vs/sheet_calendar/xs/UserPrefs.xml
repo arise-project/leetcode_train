@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{823BCD50-49F2-4012-B18B-A41F0E69D58E}|Default">
+  <MonoDevelop.Ide.ItemProperties.sheet__calendar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sheet_calendar/Program.cs">
+    <Files>
+      <File FileName="sheet_calendar/Program.cs" Line="83" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sheet_calendar" expanded="True">
+            <Node name="sheet_calendar" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
