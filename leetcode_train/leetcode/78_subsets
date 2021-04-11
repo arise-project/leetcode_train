@@ -1,6 +1,7 @@
 permutation = any of the different ways in which a set of things can be ordered
 combination = two or more things joined or mixed together to form a single unit
 lexicographic = (sorted) order
+backtrack =  to go back along the same route that you have just come along
 
 In permutations the number of items is always the same where it’s not the case for combination.
 
@@ -26,9 +27,11 @@ multithreaded  = not ordered because faster for performance
 -------------------------
 Permutation all algo = https://github.com/EricOuellet2/Permutations
 ------------------------
+Theory: https://www.baeldung.com/cs/array-generate-all-permutations
 
 Heap's algorithm = it generates each permutation from the previous one by interchanging a single pair of elements. 
 that it was at that time the most effective algorithm for generating permutations by computer
+it produces every possible permutation of these elements exactly once.
 
 Author = Ouellet	Algo name = OuelletHeap	Based on algorithm = Heap Lex1 = No	Threadable2 = No	Comment
 
@@ -82,3 +85,49 @@ https://www.geeksforgeeks.org/lexicographic-permutations-of-string/
 
 ---------------
 
+subsets
+
+---------------
+
+Theory https://afteracademy.com/blog/print-all-subsets-of-a-given-set
+
+int S[N]
+void allSubsets(int pos, int len, int[] subset) 
+{
+  if(pos == N) 
+  { 
+     print(subset)
+     return
+  }
+  // Try the current element in the subset.
+  subset[len] = S[pos]
+  allSubsets(pos+1, len+1, subset)
+  // Skip the current element.
+  allSubsets(pos+1, len, subset)
+}
+
+---------------
+
+Subsed of size
+
+---------------
+
+super set
+
+private static void getSubsets(List<Integer> superSet, int k, int idx, 
+            List<Integer> current, List<List<Integer>> solution) {
+
+        if (current.size() == k) {
+            solution.add(new ArrayList<>(current));
+            return;
+        }
+
+        for (int i = idx; i < superSet.size(); i++) {
+            Integer x = superSet.get(i);
+            current.add(x);
+            getSubsets(superSet, k, i + 1, current, solution);
+            current.remove(current.size() - 1);
+        }
+    }
+
+    
