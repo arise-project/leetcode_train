@@ -85,6 +85,17 @@ https://www.geeksforgeeks.org/lexicographic-permutations-of-string/
 
 ---------------
 
+unique subsets
+
+---------------
+
+to make subsets unique it sghould be lexagraphical sorted
+
+---------------
+
+---------------
+
+
 subsets
 
 ---------------
@@ -131,3 +142,11 @@ private static void getSubsets(List<Integer> superSet, int k, int idx,
     }
 
     
+------------------
+
+topologicsl sorting
+
+------------------
+
+is sequence of vertices in graph in deep first traverse. Only exit from vertex meke it topological
+
