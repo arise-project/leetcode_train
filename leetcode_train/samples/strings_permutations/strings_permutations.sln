@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings_permutations", "strings_permutations\strings_permutations.csproj", "{CF21D599-EA62-4932-9C52-C0B9A339990C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF21D599-EA62-4932-9C52-C0B9A339990C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF21D599-EA62-4932-9C52-C0B9A339990C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF21D599-EA62-4932-9C52-C0B9A339990C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF21D599-EA62-4932-9C52-C0B9A339990C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
