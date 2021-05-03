@@ -18,6 +18,7 @@ class Result
             return result;
         }
 
+        //https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/
         public static bool isPrime(int n)
         {
             // Corner cases
@@ -69,6 +70,8 @@ class Result
         }
 
 
+        //https://janmr.com/blog/2010/10/prime-factors-of-factorial-numbers/
+        //https://codereview.stackexchange.com/questions/90911/calculating-the-factorial-of-a-number-efficiently/90941
         public static BigInteger factorailPrime(int n)
         {
             var primes = primeList(n);

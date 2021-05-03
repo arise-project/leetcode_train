@@ -29,3 +29,4 @@ sheet_calendar - util to create
 
 [Markdown tootorail](https://guides.github.com/features/mastering-markdown/)
 
+[Jan Marthedal Rasmussen](https://janmr.com/blog/)
