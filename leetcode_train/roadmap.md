@@ -32,3 +32,5 @@ sheet_calendar - util to create
 [Jan Marthedal Rasmussen](https://janmr.com/blog/)
 
 [Facebook and Google prep]https://github.com/mpatacchiola/algorithms
+
+[Stanford CS Curriculum : Stanford]https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
