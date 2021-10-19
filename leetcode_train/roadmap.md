@@ -31,7 +31,9 @@ sheet_calendar - util to create
 
 [Jan Marthedal Rasmussen](https://janmr.com/blog/)
 
-[Facebook and Google prep]https://github.com/mpatacchiola/algorithms
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+[Facebook and Google prep](https://github.com/mpatacchiola/algorithms
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
-[Stanford CS Curriculum : Stanford]https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
+[Stanford CS Curriculum : Stanford](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
+
+[Algorithm Grading Rubric](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
