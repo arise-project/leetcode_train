@@ -43,3 +43,6 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [RPC chains: 5 min read](https://orkhanscience.medium.com/rpc-chains-5-min-read-2b5c0f3886ba)
 
 [Применение алгоритма Гровера для поиска гамильтоновых циклов в графе](https://habr.com/ru/post/587176/)
+
+
+[Reducing complexity by integrating through the database](https://fauna.com/blog/reducing-complexity-by-integrating-through-the-database)
