@@ -37,3 +37,9 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [Stanford CS Curriculum : Stanford](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview)
 
 [Algorithm Grading Rubric](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
+
+[How to learn mathematics](http://www.geometry.org/tex/conc/mathlearn.html)
+
+[RPC chains: 5 min read](https://orkhanscience.medium.com/rpc-chains-5-min-read-2b5c0f3886ba)
+
+[Применение алгоритма Гровера для поиска гамильтоновых циклов в графе](https://habr.com/ru/post/587176/)
