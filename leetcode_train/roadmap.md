@@ -46,3 +46,9 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 
 [Reducing complexity by integrating through the database](https://fauna.com/blog/reducing-complexity-by-integrating-through-the-database)
+
+[sk HN: How do you remember what you read and how to take notes?](https://news.ycombinator.com/item?id=29602848)
+
+[Matrix Multiplication Inches Closer to Mythic Goal](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
+
+[Learning Algorithms](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
