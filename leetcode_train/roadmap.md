@@ -52,3 +52,17 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [Matrix Multiplication Inches Closer to Mythic Goal](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
 
 [Learning Algorithms](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
+
+[Tech intreview handbook](https://techinterviewhandbook.org/introduction/)
+
+[Intreactive linear algebra](https://textbooks.math.gatech.edu/ila/index.html)
+
+[How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+
+[Problems for children from 5 to 15](https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf)
+
+[WWR](https://weworkremotely.com/remote-jobs/search?term=C%23&button=)
+
+[Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
+
+[Things To Do Before And After You Write Code](https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/)
