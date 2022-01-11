@@ -66,3 +66,5 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [Self Studying the MIT Applied Math Curriculum](https://www.smallstepcap.com/)
 
 [Things To Do Before And After You Write Code](https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/)
+
+[SystemDesign.org Textbook for System Design Interviews](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit)
