@@ -68,3 +68,20 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [Things To Do Before And After You Write Code](https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/)
 
 [SystemDesign.org Textbook for System Design Interviews](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit)
+
+[LRU Cache](https://github.com/dboslee/lru)
+
+[Amazon Engineer to ML Scientist: notes on a 2-year journey of growth](https://medium.com/@ardivekar/engineer-to-ml-scientist-notes-on-a-2-year-journey-of-growth-ed4d16d22044)
+
+[Engineering Principles at Ramp](https://engineering.ramp.com/engineering-principles)
+
+[Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
+
+[know how your org works (or how to become a more effective engineer)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
+
+[Ask HN: Would you pass an interview for your current position?](https://news.ycombinator.com/item?id=29825080)
+[100 ways to slightly improve your life without really trying](https://www.theguardian.com/lifeandstyle/2022/jan/01/marginal-gains-100-ways-to-improve-your-life-without-really-trying)
+[The Feynman Learning Technique](https://fs.blog/feynman-learning-technique/)
+[Mathematical Notation: Past and Future (2000)](https://www.stephenwolfram.com/publications/mathematical-notation-past-future/)
+[Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
+[How to read research paper, textbook, long text content?](https://news.ycombinator.com/item?id=29851336)
