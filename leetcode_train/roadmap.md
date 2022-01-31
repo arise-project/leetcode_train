@@ -92,3 +92,14 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 [Leetcode has taught me that I'm a bad engineer](https://news.ycombinator.com/item?id=29804607)
 
+[Ask HN: How do you take care of yourself?](https://news.ycombinator.com/item?id=29754211)
+
+[Ask HN: Who wants to collaborate?](https://news.ycombinator.com/item?id=29759115)
+
+[Ask HN: Best Engineering Blog Posts?](https://news.ycombinator.com/item?id=29758396)
+
+[Без «пжлст», мемов и капслока: правила делового общения в мессенджерах](https://www.forbes.ru/svoi-biznes/451031-bez-pzlst-memov-i-kapsloka-pravila-delovogo-obsenia-v-messendzerah)
+
+[Как правильно копить деньги и что делать, если хочется тратить](https://www.forbes.ru/finansy/451331-kak-pravil-no-kopit-den-gi-i-cto-delat-esli-hocetsa-tratit)
+
+[Creating Engineering Principles for your Team](https://thomasvds.com/creating-engineering-principles-for-your-team/)
