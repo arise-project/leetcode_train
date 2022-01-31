@@ -87,3 +87,8 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [How to read research paper, textbook, long text content?](https://news.ycombinator.com/item?id=29851336)
 [Ask HN: Solving problems by mapping to other problems that we know how to solve](https://news.ycombinator.com/item?id=29965282)
 [Как научиться чему угодно с помощью техники Фейнмана](https://habr.com/ru/company/getmeit/blog/646085/)
+
+[Ask HN: My boss doesn't think I'm doing good work, how to proceed?](https://news.ycombinator.com/item?id=29830770)
+
+[Leetcode has taught me that I'm a bad engineer](https://news.ycombinator.com/item?id=29804607)
+
