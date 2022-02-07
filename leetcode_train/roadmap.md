@@ -103,3 +103,9 @@ https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 [Как правильно копить деньги и что делать, если хочется тратить](https://www.forbes.ru/finansy/451331-kak-pravil-no-kopit-den-gi-i-cto-delat-esli-hocetsa-tratit)
 
 [Creating Engineering Principles for your Team](https://thomasvds.com/creating-engineering-principles-for-your-team/)
+
+[An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
+
+[Inclusive IT Language Guide](https://www.oit.uci.edu/wp-content/uploads/Inclusive-Language-Guide.pdf)
+
+http://infolab.stanford.edu/~ullman/focs.html
